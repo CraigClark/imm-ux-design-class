@@ -1,0 +1,18 @@
+#  files to ignore
+.DS_Store
+*.pptx
+*.mp4
+*.html
+*.code-workspace
+
+
+
+# folders to ignore
+private/
+studentSubmissions/
+assignments/*/*/examples/
+assignments/workshops/*
+presentations/
+lessons/*/setlist/
+exercise-files/
+planning/
