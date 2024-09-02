@@ -1,5 +1,9 @@
 # Changes for 2024/2025
 
+## ICA01 thumbnails
+
+- remove requirement for written description , it duplicates what is in ica02 wireframes. [DONE]
+
 ## Class ordering
 
 Consider implications of doing User Centred Design class before the User research class
@@ -18,9 +22,12 @@ See if there is way to have more yes/no type grading in rubrics while leaving ro
 
 ### levels
 
-Rubric levels are confusing. Maybe match them to letter grades?
+For levels
 
-Also, if a student has a grade below the lowest threshold, you can't properly publish grades without an error. See if they can be removed all togehter.
+Needs improvement up to 60%
+Meets criteria 60% to 80%
+Exceeds expectations 80% to 90%
+Excellent 90% to 100%
 
 ### Clarify descriptions
 

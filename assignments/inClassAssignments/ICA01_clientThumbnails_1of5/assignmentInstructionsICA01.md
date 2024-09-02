@@ -1,5 +1,3 @@
-# ICA01 Client Thumbnails (Part 1 or 5)
-
 ## Grading
 
 6% of final mark
@@ -16,11 +14,11 @@ Thumbnails are an important part of the design process. Students will learn how 
 
 ### Thumbnails
 
-Create different thumbnails for a flower shop client's homepage.
+Create different thumbnails for a flower shop client’s homepage.
 
 ### Layout drawing
 
-You will do a layout drawing based on your thumbnail and provide an accompanying written submission. A layout drawing should be based on concepts you like from your thumbnails.
+You will do a layout drawing based on your thumbnail. A layout drawing should be based on concepts you like from your thumbnails.
 
 Part 2-5 will be completed during other in-class exercises.
 
@@ -29,10 +27,9 @@ Part 2-5 will be completed during other in-class exercises.
 **Your Assignment should include:**
 
 - Cover Page - Title, Designer, Your Algonquin College e-mail address, Date
-- Thumbnails - Minimum 9 different hand drawn layouts sketched into thumbnails
-- Layout drawing - combine elements you like from your thumbnails and do a layout drawing.
-- Written submission - referring your layout drawing, explain why you placed elements where you did.
-- drawings must include at least the following sections:
+- Thumbnails - Minimum 9 different hand-drawn layouts sketched into thumbnails
+- Layout drawing - Combine elements you like from your thumbnails and do one layout drawing.
+- Drawings must include at least the following sections:
   - Header
   - Navigation
   - Content
@@ -40,12 +37,11 @@ Part 2-5 will be completed during other in-class exercises.
 
 ## Submission
 
-- Scan your assignment and submit it through brightspace.
+- Scan your assignment and submit it through Brightspace.
 - You do not need to include an Original Content Notice with this assignment.
-- To fit with your coding class you will be designing mobile first - 480px screen size.
-- Name your assignment ica01-lastname-firstname.pdf
-  z
+- To fit with your coding class, you will be designing mobile-first - 480px screen size.
+- Name your assignment `ica01-lastname-firstname.pdf`
 
 ## Example Assignments
 
-Please note that assignment criteria changes from semester to semester. Examples shown it class and posted to Brightspace may not reflect the same requirements as your assignment.
+Please note that assignment criteria change from semester to semester. Examples shown in class and posted to Brightspace may not reflect the same requirements as your assignment.
