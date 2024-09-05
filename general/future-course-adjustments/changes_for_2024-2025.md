@@ -20,22 +20,6 @@ Add a note to all figma assignments that I will not grade assignments in the wro
 
 See if there is way to have more yes/no type grading in rubrics while leaving room to consider quaslity of work.
 
-### levels
-
-For levels
-
-Needs improvement up to 60%
-Assignment requirements are not met
-
-Meets criteria 60% to 80%
-Assignment requirements are met in a satisfactory manor.
-
-Exceeds expectations 80% to 90%
-Assignment requirements are met and exceed expectations.
-
-Excellent 90% to 100%
-Assignment requirements are met and the results are outstanding.
-
 ### Clarify descriptions
 
 Make it clear that I need to know, specifically, how things are addressed. For example
@@ -89,4 +73,4 @@ To
 
 In Rubric, make accessibility more gradual, currently grande is 0,3 or full marks
 
-make a not to students to not rename groups.
+make a note to students to not rename groups.
