@@ -1,28 +1,24 @@
-## Title
-
-Client-Prototypes (Part Four)
-
 ## Grading
 
 6% of the final mark
 
-## Description
+## Purpose
 
-Create the homepage for your flower shop
+Prototypes show how you plan to build a website, letting team members and clients interact with it as if it were real. You demonstrate how different parts and features work together, including how users will move through the site and use the CTAs (Call to Action). Prototypes are important for testing how easy the website is to use and improving the user experience before coding begins. Being able to create and update prototypes quickly is key to making sure the final product meets user needs.
 
 ## Details
 
-For Part Four of this exercise, you will create a prototype in Figma that depicts the home page for your flower shop client's website.
+For Part Four of this exercise, you will create a prototype in Figma that depicts the homepage for your flower shop client’s website.
 
-_You will complete part 5 during the final UX in-class exercise._
+*You will complete part 5 during the final UX in-class exercise.*
 
 ## Required
 
-Your Assignment should include:
+Your assignment should include:
 
-- Art board resolution: Choose the iPhone 14 Pro frame (393px X 852px)
-- Base your assignment on the wireframe you did for _ICA02 - client wireframes_
-- Use the logo, typography and colour scheme you used for _ICA03 - client branding.
+- Artboard resolution: Choose the iPhone 14 Pro frame.
+- Base your assignment on the wireframe you did for *ICA02 - client wireframes*
+- Use the logo, typography, and color scheme you used for *ICA03 - client branding.*
 - You must include the following sections:
   - Header
   - Navigation
@@ -33,15 +29,12 @@ Your Assignment should include:
   - Use actual words for headings
   - Use actual words for navigation items
   - Label your layers and frames in Figma
-- You must include at least one complete interaction. It can be anything you want other than "_scroll to_". Complete interaction means that the interaction has to have a start and a completion state. For example:
+- You must include at least one complete interaction. It can be anything you want other than “*scroll to*”. Complete interaction means that the interaction has to have a start and a completion state. For example:
   - Hamburger menu: It can be opened and it can be closed
-  - Accordion: it can be expanded and collapsed
+  - Accordion: It can be expanded and collapsed
   - Simulated animation: There is a way to get back to the initial state.
 - Your interaction must use more than one screen.
-- You cannot use a '_scroll to_' as your interaction.
-
-> **NOTE**:
-> Make sure you do your Figma assignments in the project created for you by the professor. it will is called `UX Student - Lastname, firstname`
+- You cannot use a ‘*scroll to*’ as your interaction.
 
 ## Additional
 
@@ -54,19 +47,19 @@ You will be graded on:
 
 ## Submission
 
-- Submit your assignment through Brightspace
-- Add a link to your Figma prototype in the comment box
 - Upload your Original Content Notice to Brightspace. This needs to be included for all assignments and exercises.
+- Do your assignment in Figma.
 
-## NOTES
+<p style="border: 3px solid maroon; border-radius: 1em; padding: 1.25em; margin: 3em 0; font-size: 1.15em; font-weight: 600; color: maroon; line-height: 1.6;">
+    <em>Only Figma prototypes created within the project folder assigned to you by the professor will be graded.</em>.
+  </p>
 
-To fit with your coding class, you will design mobile-first.
+## Notes
 
-Stock imagery may be used from sites listed in Brightspace if referenced in the OCN
-
-- To fit with your coding class you will design mobile first - Figma's iPhone 14 frame.
-- Name your Figma prototype ica04-lastname-firstname
+- To fit with your coding class, you will design mobile-first.
+- Stock imagery may be used from sites listed in Brightspace if referenced in the OCN.
+- Name your Figma prototype `ica04-lastname-firstname`.
 
 ## Example Assignments
 
-Please note that assignment criteria changes from semester to semester. Examples shown it class and posted to Brightspace may not reflect the same requirements as your assignment.
+Please note that assignment criteria change from semester to semester. Examples shown in class and posted to Brightspace may not reflect the same requirements as your assignment.

@@ -25,9 +25,16 @@ See if there is way to have more yes/no type grading in rubrics while leaving ro
 For levels
 
 Needs improvement up to 60%
+Assignment requirements are not met
+
 Meets criteria 60% to 80%
+Assignment requirements are met in a satisfactory manor.
+
 Exceeds expectations 80% to 90%
+Assignment requirements are met and exceed expectations.
+
 Excellent 90% to 100%
+Assignment requirements are met and the results are outstanding.
 
 ### Clarify descriptions
 
