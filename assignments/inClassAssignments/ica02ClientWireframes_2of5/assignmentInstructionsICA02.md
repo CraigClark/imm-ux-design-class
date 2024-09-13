@@ -1,5 +1,3 @@
-# ICA02 Client Wireframes (Part 2 of 5)
-
 ## Grading
 
 6% of final mark
@@ -40,7 +38,7 @@ Part 3-5 will be completed during other UX exercises.
 - To fit with your coding class, you will be designing mobile first - Figma’s iPhone 14 frame.
 - Name your assignment `ica02-lastname-firstname.pdf`
 
-  <p style="border: 3px solid maroon; border-radius: 1em; padding: 1.25em; margin: 3em 0; font-size: 1.15em; font-weight: 600; color: maroon; line-height: 1.6;">
+<p style="border: 3px solid maroon; border-radius: 1em; padding: 1.25em; margin: 3em 0; font-size: 1.15em; font-weight: 600; color: maroon; line-height: 1.6;">
     <em>Only Figma prototypes created within the project folder assigned to you by the professor will be graded.</em>
   </p>
 
