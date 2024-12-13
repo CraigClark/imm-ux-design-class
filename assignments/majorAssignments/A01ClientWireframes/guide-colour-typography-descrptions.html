@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      Guide to describing elements of a wireframe using colour and typography
+      swatches.
+    </title>
+
+    <style>
+      body {
+        margin: 2em auto;
+        max-width: 80%;
+        font-family: sans-serif;
+        font-size: 20px;
+      }
+
+      blockquote {
+        padding: 2em 3em;
+        margin: 2em 0;
+        border: 2px solid darkslategray;
+        border-radius: 7px;
+        color: darkslategray;
+        background: #f0f0f0;
+      }
+      ol {
+        list-style-type: unset;
+      }
+      li {
+        display: block;
+        margin-bottom: 0.75em;
+      }
+
+      a {
+        font-size: 1.15em;
+        font-style: oblique;
+      }
+
+      a:after {
+        display: inline-block;
+        margin-left: 0.5em;
+        content: "\1F517";
+      }
+
+      .swatch {
+        display: flex;
+        align-items: center;
+      }
+
+      .swatch::before {
+        display: inline-block;
+        width: 2em;
+        height: 2em;
+        margin-right: 1em;
+        content: " ";
+      }
+
+      .black::before {
+        background-color: #1e1e1e;
+      }
+
+      .white::before {
+        background-color: #ffffff;
+        border: 1px solid #1e1e1e;
+      }
+
+      .primary::before {
+        background-color: #38761d;
+      }
+
+      .primary-tint-1::before {
+        background-color: #ebf1e8;
+      }
+
+      .primary-tint-2::before {
+        background-color: #c3d5bb;
+      }
+
+      .primary-tint-3::before {
+        background-color: #9bba8e;
+      }
+
+      .primary-shade-1::before {
+        background-color: #326a1a;
+      }
+
+      .primary-shade-2::before {
+        background-color: #275214;
+      }
+
+      .primary-shade-3::before {
+        background-color: #1c3b0e;
+      }
+
+      .comic-sans {
+        font-family: "Comic Sans MS", "Comic Sans", cursive;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>
+      Guide to describing elements of a wireframe using colour and typography
+      swatches.
+    </h1>
+    <h2 id="colour-swatches">Colour swatches</h2>
+    <p>Each swatch should include:</p>
+    <ol type="1">
+      <li>
+        visual representation of the colour, typically a colour filled box.
+      </li>
+      <li>a hex value for the colour, ie: <code>#000000</code> is black</li>
+      <li>the name of the colour</li>
+    </ol>
+    <p>Example:</p>
+    <div class="swatch black">#1e1e1e, Black</div>
+    <p>You should include swatches for:</p>
+    <ol type="1">
+      <li>Primary colour, typically from the brand</li>
+      <li>Secondary colour, typically from the brand</li>
+      <li>Accent colour</li>
+      <li>
+        Neutral colours, used for text, backgrounds - most of the UI is neutral
+        colours
+      </li>
+      <li>
+        Semantic colours, these are colours that have meaning to users. For
+        example, success, error, warning, info and danger alerts.
+      </li>
+      <li>
+        Extended colours, these are typically tints and tones of your primary
+        and secondary colours
+      </li>
+    </ol>
+    <p>
+      Make sure you have a naming convention for each colour to reference in the
+      wireframe description. For example:
+    </p>
+    <p><strong>Global colours</strong></p>
+    <p class="swatch black">#1e1e1e, Black</p>
+    <p class="swatch white">#ffffff, White</p>
+    <p><strong>Primary and variants</strong></p>
+    <p class="swatch primary">#38761d, Primary</p>
+    <p class="swatch primary-tint-1">#ebf1e8, Primary tint 1</p>
+    <p class="swatch primary-tint-2">#c3d5bb, Primary tint 2</p>
+    <p class="swatch primary-tint-3">#9bba8e, Primary tint 3</p>
+    <p class="swatch primary-shade-1">#326a1a, Primary shade 1</p>
+    <p class="swatch primary-shade-2">#275214, Primary shade 2</p>
+    <p class="swatch primary-shade-3">#1c3b0e, Primary shade 3</p>
+    <h2 id="typography-swatch">Typography swatch</h2>
+    <p>
+      In a typography swatch, you identify the fonts you will use and how you
+      will use them.
+    </p>
+    <p>
+      For all elements of your site, identify the font and font-weight the
+      element uses. For example:
+    </p>
+    <ul>
+      <li>All heading levels</li>
+      <li>body (paragraph text, asides, quotes)</li>
+      <li>navigation</li>
+      <li>form elements (labels and buttons)</li>
+      <li>captions</li>
+      <li>links</li>
+    </ul>
+    <p>
+      You should also include variants such as small, medium and large variants
+      of elements.
+    </p>
+    <p>For example:</p>
+    <p><strong>Primary font</strong></p>
+    <p><em>Primary default</em></p>
+    <ul>
+      <li>font: <span class="comic-sans">Comic Sans</span></li>
+      <li>weight: regular</li>
+    </ul>
+    <p><em>Primary sm</em></p>
+    <ul>
+      <li>font: <span class="comic-sans">Comic Sans</span></li>
+      <li>weight: thin</li>
+    </ul>
+    <p><em>Primary lg</em></p>
+    <ul>
+      <li>font: <span class="comic-sans">Comic Sans</span></li>
+      <li>weight: medium</li>
+    </ul>
+    <p><em>Primary xl</em></p>
+    <ul>
+      <li>
+        font: <span class="comic-sans"><b>Comic Sans</b></span>
+      </li>
+      <li>weight: bold</li>
+    </ul>
+    <blockquote>
+      <h2 id="describing-elements-in-a-wireframe">
+        Describing elements in a wireframe
+      </h2>
+      <p>
+        It is important that team members understand the appearance of every
+        element on a page.
+      </p>
+      <p>
+        <h3>Example</h3>
+      </p>
+      <p>I have a header with the following elements:</p>
+
+      <ol type="1">
+        <li>logo</li>
+        <li>title</li>
+        <li>search bar</li>
+        <li>user account (icon and text)</li>
+        <li>shopping cart icon</li>
+        <li>hamburger nav</li>
+      </ol>
+      <p>
+        To describe these, I need to know what fonts, colours, and any other
+        details used to make the element. For this example, I have my colours
+        and fonts described above, however, I need to describe borders and
+        radius as well. So I add:
+      </p>
+      <h3 id="border-styles">Border styles</h3>
+      <ul>
+        <li><strong>Border sm</strong>: 1px solid</li>
+        <li><strong>Border md</strong>: 2px solid</li>
+        <li><strong>Border lg</strong>: 4px solid</li>
+      </ul>
+      <h3 id="radius-styles">Radius styles</h3>
+      <ul>
+        <li><strong>Raduis 1</strong>: 5px</li>
+        <li><strong>Raduis 2</strong>: 10px</li>
+        <li><strong>Raduis cr</strong>: 50% (circle)</li>
+      </ul>
+      <p>I would describe my header element like this:</p>
+      <h3 id="header">Header</h3>
+      <p>
+        background colour: Primary tint 1<br />
+        border bottom: Border md<br />
+        border bottom colour: Primary shade 3
+      </p>
+      <p>
+        <strong>Header &gt; title</strong><br />
+        colour: Primary<br />
+        typography mobile: Primary xl, 20px (note that I added the size here)<br />
+        typography desktop: Primary xl, 30px
+      </p>
+      <p>
+        <strong>Header &gt; search &gt; input</strong><br />
+        background colour: White<br />
+        color: Black<br />
+        typography mobile: primary default: 18px<br />
+        typography desktop: primary default: 20px<br />
+        border sm<br />
+        radius mobile: radius 1<br />
+        radius desktop: radius 2
+      </p>
+      <p>
+        <strong>Header &gt; search &gt; submit button</strong><br />
+        background colour: Primary shade 2<br />
+        icon colour: Primary tint 1
+      </p>
+      <p>
+        <strong>Header &gt; user account</strong><br />
+        icon colour: Primary shade 2<br />
+        typography mobile: primary small: 16px<br />
+        typography desktop: primary small: 18px
+      </p>
+      <p>
+        <strong>Header &gt; shopping cart</strong><br />
+        icon colour: Primary shade 2
+      </p>
+      <p><strong>Header &gt; nav</strong> icon colour: Primary shade 2</p>
+      <p>
+        <em
+          >Notice that I did not describe the logo. This is because it is an
+          image and will appear on the wireframes as a circle with an X in it.
+          There is no need to describe it here. The user can understand by
+          looking at the wireframe</em
+        >
+      </p>
+    </blockquote>
+  </body>
+</html>

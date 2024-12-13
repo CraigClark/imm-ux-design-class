@@ -1,42 +1,42 @@
-# Learning Schedule
+# Learning Schedule (Winter Semester)
 
 ## Class 1 | Introduction
 
-*September 6*
+*January 10*
 
 - Welcome
 - Introduction to UX
 - Website anatomy
 - Thumbnails
-- set up figma accounts
+- Set up Figma accounts
 - **In-class assignment ICA01** Client Thumbnails (Part 1 of 5)
 
 ## Class 2 | Prototyping part 1
 
-*September 13*
+*January 17*
 
 - Interaction Design 01
 
-> Basics of figma
+> Basics of Figma  
 >
-> - color
-> - typography
-> - pages
-> - frames
-> - shapes
-> - naming layers
+> - Color  
+> - Typography  
+> - Pages  
+> - Frames  
+> - Shapes  
+> - Naming layers
 
 - Introduction to wireframes
 - **Assignment due:** ICA01 Client Thumbnails (Part 1 of 5)
-- **In-class assignment** ICA02 Client Wireframes (Part 2 of 5)
+- **In-class assignment:** ICA02 Client Wireframes (Part 2 of 5)
 
 ## Class 3 | Design theory 1
 
-*September 20*
+*January 24*
 
 - Design Theory 1
   - Information Hierarchy
-  - elements of design
+  - Elements of Design
     - Typography
     - Space & Balance
     - Colour
@@ -47,94 +47,93 @@
 
 ## Class 4 | Design theory 2
 
-*September 27*
+*January 31*
 
 - Design Theory 2
-  - CRAP principal
-  - Gutenberg readability
-  - Gestalt Design theory
+  - CRAP Principle
+  - Gutenberg Readability
+  - Gestalt Design Theory
 - Colour Theory
 - Critical thinking in design
 - **In-class assignment:** ICA03 Client Website & Branding (Part 3 of 5)
 
 ## Class 5 | Prototyping part 2
 
-*October 4*
+*February 7*
 
 - Interaction Design 02
 - **Assignment due:** ICA03 Client Website & Branding (Part 3 of 5)
-- **Assigned** ICA04 Client Prototypes (Part 4 of 5)
+- **Assigned:** ICA04 Client Prototypes (Part 4 of 5)
 
 ## Class 6 | Web psychology part 1
 
-*October 11*
+*February 14*
 
-- Why do we Click: Aspects of emotion
+- Why do we click: Aspects of emotion
 - Why we click: Reciprocity
 - Why we click: Social Validation
-- **Assignment due** ICA04 Client Prototypes (Part 4 of 5)
+- **Assignment due:** ICA04 Client Prototypes (Part 4 of 5)
 - **Assignment due:** A01 Wireframes (Part One)
 
 ## Class 7 | Web psychology part 2
 
-*October 18*
+*February 21*
 
 - Why we click: Scarcity
 - Why we click: Simplified choices
 - Cognitive Load
 - Gamification
-- **Assigned:** A02 Website redesign
+- **Assigned:** A02 Website Redesign
 
 ## Class 8 | No class
 
-*October 25*
+*February 28*
 
 - No class, break
 
 ## Class 9 | Design for everyone
 
-*November 1*
+*March 7*
 
 - Accessibility and inclusion
-- Using and understanding Feedback
-- **Assigned** ICA05 Prototype - Evaluation and feedback (Part 5 of 5)
+- Using and understanding feedback
+- **Assigned:** ICA05 Prototype - Evaluation and Feedback (Part 5 of 5)
 
 ## Class 10 | User research part 1
 
-*November 8*
+*March 14*
 
-- introducing user research
-- **Assignment due:** - ICA05 Prototype - Evaluation and feedback
+- Introducing user research
+- **Assignment due:** ICA05 Prototype - Evaluation and Feedback (Part 5 of 5)
 
 ## Class 11 | Design Thinking
 
-*November 15*
+*March 21*
 
 - Design thinking
-- **Assignment due:** - A02 Website Re-Design
-- **Assigned** A03 Website planning and design
+- **Assignment due:** A02 Website Re-Design
+- **Assigned:** A03 Website Planning and Design
 
-## Class 12 | User centred design
+## Class 12 | User Centred Design
 
-*November 22*
+*March 21*
 
 - Personas
 - User journey
-- User Testing | Testing and evaluating prototype
-- **In-class assignment** Usability Testing Workshop
+- User testing | Testing and evaluating prototype
+- **In-class assignment:** Usability Testing Workshop
 - **Assignment Due:** Usability Testing Workshop
 
 ## Class 13 | Prototyping part 3
 
-*November 29*
+*April 4*
 
 - Design Systems
 - Interaction Design 03
-- Assigment due ICA05 Prototype - Evaluation and feedback (Part 5 of 5)
 
 ## Class 14 | Wrap up
 
-*December 6*
+*April 11*
 
 - Q&A on course material
 - Staying engaged
@@ -142,8 +141,7 @@
 
 ## Class 15 | Evaluation week
 
-*December 13*
+*April 18*
 
-- Evaluation week
-- This is the last class
-- **Assignment due** Assignment A03 Website planning and design
+- No class, Good Friday
+- **Assignment due:** A03 Website Planning and Design
