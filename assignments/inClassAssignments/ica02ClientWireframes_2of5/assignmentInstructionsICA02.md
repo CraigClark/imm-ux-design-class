@@ -1,5 +1,3 @@
-# ICA02 Client Wireframes (Part 2 of 5)
-
 ## Grading
 
 6% of final mark
@@ -14,33 +12,36 @@ Wireframes are used to show team members and clients what an application or webs
 
 ## Details
 
-For Part Two of this exercise, you will be creating a wireframe in Figma that depicts the home page for your flower shop client's website.
+For Part Two of this exercise, you will be creating a wireframe in Figma that depicts the home page for your flower shop client’s website.
 
 Part 3-5 will be completed during other UX exercises.
 
-## Requirments
+## Requirements
 
 - Your Figma project must be in the team created for you by the professor
 - Cover Page - Title, Designer, Your Algonquin College e-mail address, Date
 - Use the layout drawing from ICA01.
-- Wireframe mus be created in Figma
-- **Wireframe** - Must include:
+- Wireframe must be created in Figma
+- Wireframe - Must include:
   - Header
   - Navigation
   - Content
   - Footer
-- **Wireframe written description**: Provide details pertaining to the look and feel you wish to achieve. For example, why did you place the call to action where you did? If there is a dominant section to your design, why is it the dominant section?
+- *Wireframe written description*: Provide details pertaining to the look and feel you wish to achieve. For example, why did you place the call to action where you did? If there is a dominant section to your design, why is it the dominant section?
 
 ## Submission
 
-- Combine the following,in order, into a single PDF and upload to Brightspace:
-  1. cover-page
+- Combine the following, in order, into a single PDF and upload to Brightspace:
+  1. cover page
   2. the layout drawing from ICA01
-  3. Figma PDF export and written description
 - You do not need to include an Original Content Notice with this assignment.
-- To fit with your coding class you will be designing mobile first - Figma's iPhone 14 frame.
-- Name your assignment ica02-lastname-firstname.pdf
+- To fit with your coding class, you will be designing mobile first - Figma’s iPhone 14 frame.
+- Name your assignment `ica02-lastname-firstname.pdf`
+
+<p style="border: 3px solid maroon; border-radius: 1em; padding: 1.25em; margin: 3em 0; font-size: 1.15em; font-weight: 600; color: maroon; line-height: 1.6;">
+    <em>Only Figma prototypes created within the project folder assigned to you by the professor will be graded.</em>
+  </p>
 
 ## Example Assignments
 
-Please note that assignment criteria changes from semester to semester. Examples shown it class and posted to Brightspace may not reflect the same requirements as your assignment
+Please note that assignment criteria change from semester to semester. Examples shown in class and posted to Brightspace may not reflect the same requirements as your assignment.

@@ -1,80 +1,139 @@
-# Maplebrook Public Library
+The city of Maplebrook is re-branding their library, which includes the development of a website. As a member of the design team, you will create the wireframes for the new site.
 
-The Maplebrook Public Library Association has contracted you to develop a new website, which includes branding.
+## Purpose
 
-The mission of the Maplebrook public library is to use education, sharing, and recreation to build a strong, inclusive and diverse community. The library association believes it is strongest when community members are engaged in program delivery.
+In previous classes and assignments, you learned the value of wireframes in the early stages of a project. You will apply knowledge of design theory and information hierarchy to create professional wireframes in Figma. This assignment introduces you to thinking about design from the point of view of the users while meeting the client’s objectives.
 
-The library has several services, programs and events that they need to promote. Maplebrook is a large city with a diverse population. The library belongs to the people of Maplebrook, so it is important to consider a variety of ages, incomes, cultures, genders and education levels.
+## Grading
 
-Below is a list of some of the services, programs and events happening at the library.
+20% of the final mark
 
-> Disclosure: This list of services, programs and events was AI generated.
+## Description
 
-### Services
+You are to create two wireframes for the Maplebrook Public Library (MPL). This is the first of a three-part assignment. You will make a mock-up of your design in your Graphic Applications class and eventually code it into a webpage for your Web Design class.
 
-- **Computer Lab and Internet Access** | Offering computers and internet for research and communication.
-- **Reference and Research help** | Helping patrons find information and resources.
-- **Quiet Reading Areas** | Providing peaceful spaces for focused reading and studying.
-- **Book Borrowing** | Offering a diverse collection of books for all age groups and interests.
-- **Digital Resources Access** | Providing e-books, audiobooks, and online databases.
-- **Community Meeting Rooms** | Available for clubs, groups, and community gatherings.
-- **Children's Play Corner** | A dedicated area for young children to play and learn.
-- **Local History Archives** | Preserving the history and stories of Maplebrook and its residents.
-- **Multilingual Materials** | Books and resources in various languages to serve the diverse population.
-- **Home Delivery Service** | Bringing library materials to homebound residents.
-- **Resume Building Support** | Assisting job seekers with resume writing and job search resources.
-- **Assistive Technologies** | Providing tools for patrons with disabilities to access library resources.
-- **Children's Educational Kits** | Offering kits on science, art, and learning activities for families.
-- **Online Learning Platforms** | Granting access to courses and tutorials on various subjects.
-- **Interlibrary Loan Services** | Borrowing materials from other libraries for patrons.
-- **Language Learning Resources** | Providing language learning software and materials.
-- **Technology Help Desk** | Assisting patrons with computer, smartphone, and software issues.
-- **Study and Collaboration Spaces** | Encouraging group work and study sessions.
-- **Citizenship Resources** | Supporting immigrants with information on citizenship processes.
-- **Periodicals and Magazines** | Offering a range of magazines on diverse topics.
+The attached client description includes the programs, services, and events at Maplebrook Public Library. You decide how these will be promoted on the homepage. Remember, a wireframe does not contain content; it provides information on how types of content will be displayed.
 
-## Programs
+To start, MPL is requesting a home page to include: a masthead (title banner), primary navigation, main content area, and footer. Any other additional sections that you feel may make the user’s experience more inviting should be implemented in the wireframes. Keep in mind that the final product will be a fully functional web page. You will be starting with a mobile-first wireframe and then continuing on to create a desktop wireframe as well.
 
-- **Cultural Exchange Workshops** | Facilitating discussions and activities to promote cross-cultural understanding.
-- **Language Learning Classes** | Offering lessons in languages spoken by Maplebrook's diverse population.
-- **Tech Training for Seniors** | Helping older residents become comfortable with digital devices and technology.
-- **Creative Writing Workshops** | Encouraging residents to express themselves through writing.
-- **Youth Mentorship Program** | Pairing older mentors with younger mentees for guidance and support.
-- **Financial Literacy Workshops** | Teaching essential money management skills to residents of all ages.
-- **Art and Craft Workshops** | Providing opportunities for creativity and self-expression.
-- **Health and Wellness Seminars** | Informative sessions on topics such as nutrition, mental health, and fitness.
-- **Book Clubs for Different Genres** | Catering to various reading preferences and fostering lively discussions.
-- **Family Storytelling Nights** | Bringing families together for storytelling sessions and bonding.
-- **Job Skills Workshops** | Assisting residents with job search, interview skills, and resume building.
-- **Nature Exploration Series** | Organizing hikes, wildlife talks, and eco-friendly workshops.
-- **Music Appreciation Classes** | Introducing residents to different musical genres and instruments.
-- **DIY Home Improvement Workshops** | Teaching practical skills for home maintenance and repairs.
-- **Cooking Demonstrations** | Inviting chefs to showcase recipes from diverse cuisines.
-- **STEAM Workshops for Kids** | Hands-on learning experiences in science, technology, engineering, arts, and math.
-- **Parenting Support Groups** | Providing a space for parents to share challenges and advice.
-- **Meditation and Mindfulness Sessions** | Promoting relaxation and stress reduction techniques.
-- **Civic Engagement Workshops** | Encouraging residents to get involved in community initiatives.
-- **Historical Lectures** | Exploring the local history and heritage of Maplebrook.
+You will develop the typography and colour scheme for your client.
 
-## Events
+## Required
 
-- **Maplebrook Literary Festival** | Celebrating literature through author talks, readings, and book signings.
-- **Cultural Fair** | Showcasing the traditions, music, dance, and cuisine of various cultures.
-- **Community Art Exhibition** | Displaying local artworks and creations by residents of all ages.
-- **Maplebrook Book Swap** | Encouraging book lovers to exchange and share their favorite reads.
-- **Family Fun Day** | Hosting a day of games, activities, and entertainment for families.
-- **Health and Wellness Expo** | Bringing together health professionals for informative sessions.
-- **Summer Reading Challenge Kickoff** | Launching a summer-long reading initiative with themed events.
-- **Senior Social Tea** | Creating a space for older residents to socialize and connect.
-- **DIY Craft Fair** | Featuring local artisans and crafters displaying their handmade goods.
-- **Outdoor Movie Nights** | Screening family-friendly movies in a park or outdoor setting.
-- **Author-in-Residence Series** | Inviting a writer to engage with the community through workshops and talks.
-- **Cultural Cuisine Night** | Offering cooking demonstrations and tastings from different cultures.
-- **Science Fair** | Showcasing science projects and interactive exhibits for all ages.
-- **Maplebrook History Week** | Exploring the city's history through talks, tours, and exhibits.
-- **Teen Open Mic Night** | Providing a platform for young performers to showcase their talents.
-- **Holiday Craft Workshops** | Organizing creative sessions to make seasonal decorations and gifts.
-- **Community Gardening Day** | Bringing residents together to tend to a communal garden space.
-- **Mindfulness Retreat** | Offering a day of relaxation, meditation, and wellness activities.
-- **Maplebrook Reads Month** | Promoting a city-wide reading initiative with book-related events.
-- **Local Author Spotlight** | Highlighting authors from Maplebrook through readings and discussions.
+### Written assignment
+
+If you need more than 6 pages, that's fine. They do however need to be in the order of the pages listed here.
+
+- **Cover Page**: include: your client’s name, assignment title, designer name (you), due date
+- **Page 01**:
+  - Thumbnails of at least 6 mobile layouts
+  - Thumbnails of at least 6 desktop layouts
+- **Page 02**:
+  - PDF export mobile home page wireframe, use the *iPhone 13 & 14* frame in Figma
+    - *Descriptive information*: section labels, imagery, video, etc
+- **Page 03**:
+  - PDF export desktop home page wireframe, use the *Macbook pro 14"* frame in Figma
+    - *Descriptive information*: section labels, imagery, video, etc
+- **Page 04**:
+  - *Approach*: Write about what you feel are the most important things for MPL to feature on the homepage. What have you done in your design to highlight these? What design theory principles have you applied? Keep it under 350 words.
+  - *Descriptive information*: For each element on the page, describe how the element will appear.
+- **Page 05**:
+  - *Typography swatch*:
+    - The fonts you will use and how you will use them
+  - *Colour swatch*:
+    - Primary, secondary, accent, and neutral colours you will use
+    - Identify what colour scheme you use. For example, complimentary, analogous, or split complementary
+    - Paragraph on why you have chosen these colours, keep it under 200 words.
+- **Page 06**:
+  - Attach your OCN. For UX class, you are required to include fonts in the OCN.
+
+### Wireframe elements
+
+Create you wireframes in Figma. You need to pages. One will be a mobile version of the homepage and one will be the desktop version.
+
+#### Sections
+
+1. **Header section**
+   - Branding
+   - Primary navigation
+   - Search
+   - Any other items required to meet user needs and client goals
+     - Examples:
+       - Secondary navigation
+       - Account
+       - Language toggle
+2. **Primary content section**
+   - Examples:
+     - Call to action (CTA)
+     - Hero image
+     - Video
+     - Featured content
+3. **Secondary content sections**
+   - Examples:
+     - Products
+     - Services
+     - Programs
+     - History
+     - Staff
+     - Mission
+     - Goals
+4. **Footer section**
+   - Examples:
+     - Navigation
+     - Contact information
+     - Social media links
+     - Copyright notice
+     - Links to tertiary content such as:
+       - Terms of service
+       - Privacy statement
+
+#### Wireframe iconography
+
+- X for images
+- Play button for video, etc.
+
+#### Titles
+
+- Article titles, sections, cards, articles, buttons, CTA's etc must have real-word titles.
+- You can use lines to represent body text.
+
+#### Navigation
+
+- On mobile, if you have a hamburger menu, you do not need to show the links that would not be visible without tapping.
+- On desktop, if you have an expanded menu, use real words for the links, for example:
+  - Home | About us | Programs and services | Get involved | Donate | Events
+
+### Figma requirements
+
+- Pages labeled
+- Layers labeled
+- Frames labeled
+- You have used a twelve-column grid
+- All elements are placed correctly in a frame
+- Correct frame sizes
+
+### Screen sizes
+
+- **Mobile:** Use the Figma frame for *iPhone 14 & 15 pro*
+- **Desktop:** Use the Figma frame for *Macbook pro 16"*
+
+### Grading
+
+You will be graded on how accurately you meet the assignment requirements, creativity, thoughtfulness, and application of design principles learned in class.
+
+> **Important**  
+> You must make your own wireframe. You cannot use wireframe generators, third-party libraries, or Figma plugins.  
+> You must make your own icons. You cannot use icon kits such as Font Awesome, third-party libraries, or Figma plugins.
+
+## Submission
+
+Hand in a PDF of your assignment through Brightspace, along with an Original Content Notice (OCN) which needs to be included for all assignments. The file name of your assignment should be `a01-wireframe-lastname-firstname.pdf`. Do not send an archived (.zip) file. I will not grade it.
+
+Name your Figma project `a01-wireframe-lastname-firstname`.
+
+## Tips
+
+- Make sure every element on your wireframe has a description.
+- Make sure buttons, titles, and navigation items have labels.
+- For a CTA, do not label it *CTA*. Use the correct label to describe the action. For example, "Submit", "Subscribe", "Add to cart."
+- refer to the attached document *Guide to describing elements of a wireframe using colour and typography swatches.html* to see examples of how to present colour swatches, typography swatches and how to describe elements in a wireframe.

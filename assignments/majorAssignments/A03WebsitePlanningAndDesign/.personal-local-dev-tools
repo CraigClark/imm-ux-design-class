@@ -1,0 +1,4 @@
+# send local projects to test environment for cinephobia
+function putcinephobia() {
+    rsync -av /Users/craigclark/websites/cinephobia crow:/home/crowws5/public_html/sites-html/craigclark.ca/
+}

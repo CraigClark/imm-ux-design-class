@@ -47,7 +47,7 @@ We will go through the basics of working with Figma.
 
 #### Team
 
-This is a group of people who wok on projects together. In this class, you will have a team that includes yourself and the instructor.
+This is a group of people who work on projects together. In this class, you will have a team that includes yourself and the instructor.
 
 #### Project
 
@@ -59,13 +59,13 @@ Pages help you keep your project organized. For example, you might have separate
 
 #### Frames
 
-Frames are the most basic building block of Figma. Think of a frame as the artboard you will be working on. Making multiple frames, and connecting them together is how you will build prototypes.
+Frames are the most basic building block of Figma. Think of a frame as the artboard you will be working on. Making multiple frames and connecting them together is how you will build prototypes.
 
 ## Introducing wireframes
 
-Wireframes are stage 2 of the design process. They are a visual depiction and placement of the website's elements and a written description of the visual elements.
+Wireframes are stage 2 of the design process. They are a visual depiction and placement of the website’s elements and a written description of the visual elements.
 
-- What are they wireframes - Web structure basics
+- What are wireframes - Web structure basics
 - Why you should use wireframes - Gets your components aligned and planned.
 - How you should start - Jot down the visual and technical descriptions you have in mind and then use grid paper to sketch out your idea.
 
