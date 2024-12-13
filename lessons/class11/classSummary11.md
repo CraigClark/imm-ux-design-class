@@ -1,6 +1,6 @@
 ## Learning Outcome
 
-Students will understand key principals of Design Thinking.
+Students will understand key principles of Design Thinking.
 
 ### Prior to Class
 
@@ -19,7 +19,7 @@ Students will understand key principals of Design Thinking.
 
 ### Design Thinking
 
-Design thinking is the strategic process we use to problem solve our designs. It helps us to focus our work on solutions that are focused on benefitting the end user.
+Design thinking is the strategic process we use to problem-solve our designs. It helps us to focus our work on solutions that are focused on benefitting the end user.
 
 ## Resources
 

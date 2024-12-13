@@ -13,11 +13,6 @@ In this lesson, students learn the basics of user research.
   - Why do we need to do user research
   - Methods of user research
 
-### After class
-
-- Understand the basics user research
-- Know toolkit of doing user research
-
 ## Lessons, Activities, and Resources
 
 ### Lesson: Introduction to user research
@@ -29,6 +24,10 @@ User research is a critical part of any product development, from manufacturing 
 - Who is user research for?
 - When do we do user research?
 - How do we do user research?
+
+#### Usability testing workshop
+
+This is an in-class activity. Students will conduct usability testing sessions with each other to experience user testing as a tester and as a participant. This is worth 10% of your final mark.
 
 ### In class activity: Card sorting
 
@@ -68,6 +67,14 @@ Try out the tree sorting exercise.
 Be sure to look at the results sample.
 
 We will discuss experience as a class.
+
+## Assigned
+
+- In-class workshop on user testing
+
+## Assignment Due
+
+- In-class workshop on user testing
 
 ### Resources
 
