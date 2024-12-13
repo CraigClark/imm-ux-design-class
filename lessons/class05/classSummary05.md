@@ -11,14 +11,14 @@ In this lesson, students begin practical work with prototyping. Skills learned i
 ### During Class
 
 - What is Prototyping
-- why do we prototype
-- types of prototypes
+- Why do we prototype
+- Types of prototypes
 - In-class activity: Building a prototype together
 
-### After class
+### After Class
 
 - Understand the basics of Prototyping
-- have skills necessary to build a prototype in Figma
+- Have skills necessary to build a prototype in Figma
 
 ## Assigned
 
@@ -26,15 +26,15 @@ In this lesson, students begin practical work with prototyping. Skills learned i
 
 ## Lessons, Activities, and Resources
 
-### In class activity: Adobe XD prototype
+### In-class activity: Build prototype
 
 #### Description
 
-In class, we will build a prototype in Figma together. We will build frames, create interactions and learn how to share for review.
+In class, we will build a prototype in Figma together. We will build frames, create interactions, and learn how to share for review.
 
 #### Details
 
-Using the starter files provided, follow the instructor's instructions to build your prototype.
+Using the starter files provided, follow the instructor’s instructions to build your prototype.
 
 ### Resources
 

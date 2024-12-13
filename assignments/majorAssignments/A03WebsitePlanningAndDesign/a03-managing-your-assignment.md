@@ -80,7 +80,7 @@ We'll also check in on the psychology ideas we talked about last week. Do they s
 
 ### Getting Started with Figma
 
-This week, we're exploring design systems. But you don't have to wait for the lesson to begin.
+in class 13, we're exploring design systems. But you don't have to wait for the lesson to begin.
 
 - **Collect Your Resources**: Start by gathering the necessary assets, such as images and your logo. Create a page in Figma titled "Assets" and import these resources there.
 - **Building Your Design System**: Create another page in Figma named "Design System." Here's what to do on this page:
