@@ -1,38 +1,36 @@
-# Learning Schedule (Winter Semester)
+# Learning Schedule
 
 ## Class 1 | Introduction
 
-*January 10*
+- # Welcome
 
-- Welcome
 - Introduction to UX
+
 - Website anatomy
+
 - Thumbnails
+
 - Set up Figma accounts
+
 - **In-class assignment ICA01** Client Thumbnails (Part 1 of 5)
 
 ## Class 2 | Prototyping part 1
 
-*January 17*
+Interaction Design 01
 
-- Interaction Design 01
-
-> Basics of Figma  
->
-> - Color  
-> - Typography  
-> - Pages  
-> - Frames  
-> - Shapes  
-> - Naming layers
+Basics of Figma
+- Color
+- Typography
+- Pages
+- Frames
+- Shapes
+- Naming layers
 
 - Introduction to wireframes
 - **Assignment due:** ICA01 Client Thumbnails (Part 1 of 5)
 - **In-class assignment:** ICA02 Client Wireframes (Part 2 of 5)
 
 ## Class 3 | Design theory 1
-
-*January 24*
 
 - Design Theory 1
   - Information Hierarchy
@@ -47,8 +45,6 @@
 
 ## Class 4 | Design theory 2
 
-*January 31*
-
 - Design Theory 2
   - CRAP Principle
   - Gutenberg Readability
@@ -59,15 +55,11 @@
 
 ## Class 5 | Prototyping part 2
 
-*February 7*
-
 - Interaction Design 02
 - **Assignment due:** ICA03 Client Website & Branding (Part 3 of 5)
 - **Assigned:** ICA04 Client Prototypes (Part 4 of 5)
 
 ## Class 6 | Web psychology part 1
-
-*February 14*
 
 - Why do we click: Aspects of emotion
 - Why we click: Reciprocity
@@ -77,23 +69,18 @@
 
 ## Class 7 | Web psychology part 2
 
-*February 21*
-
 - Why we click: Scarcity
 - Why we click: Simplified choices
 - Cognitive Load
 - Gamification
+- **Assignment due:** ICA04 Client Prototypes (Part 4 of 5)
 - **Assigned:** A02 Website Redesign
 
 ## Class 8 | No class
 
-*February 28*
-
 - No class, break
 
 ## Class 9 | Design for everyone
-
-*March 7*
 
 - Accessibility and inclusion
 - Using and understanding feedback
@@ -101,22 +88,16 @@
 
 ## Class 10 | User research part 1
 
-*March 14*
-
 - Introducing user research
-- **Assignment due:** ICA05 Prototype - Evaluation and Feedback (Part 5 of 5)
+- **Assignment due:** ICA05 Prototype - Evaluation and Feedback
 
 ## Class 11 | Design Thinking
-
-*March 21*
 
 - Design thinking
 - **Assignment due:** A02 Website Re-Design
 - **Assigned:** A03 Website Planning and Design
 
 ## Class 12 | User Centred Design
-
-*March 21*
 
 - Personas
 - User journey
@@ -126,22 +107,16 @@
 
 ## Class 13 | Prototyping part 3
 
-*April 4*
-
 - Design Systems
 - Interaction Design 03
 
 ## Class 14 | Wrap up
 
-*April 11*
-
 - Q&A on course material
 - Staying engaged
 - Working freelance in UX
 
-## Class 15 | Evaluation week
+## Class 15 | No class
 
-*April 18*
-
-- No class, Good Friday
+- College closed, Good Friday
 - **Assignment due:** A03 Website Planning and Design
