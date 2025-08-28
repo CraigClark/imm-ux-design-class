@@ -1,19 +1,19 @@
-# Learning Schedule (Winter Semester)
+# Learning Schedule (Fall Semester)
 
 ## Class 1 | Introduction
 
-*January 10*
+*September 5*
 
 - Welcome
 - Introduction to UX
 - Website anatomy
 - Thumbnails
 - Set up Figma accounts
-- **In-class assignment ICA01** Client Thumbnails (Part 1 of 5)
+- **Assigned:** PA01 Client Thumbnails (Part 1 of 5)
 
 ## Class 2 | Prototyping part 1
 
-*January 17*
+*September 12*
 
 - Interaction Design 01
 
@@ -27,12 +27,11 @@
 > - Naming layers
 
 - Introduction to wireframes
-- **Assignment due:** ICA01 Client Thumbnails (Part 1 of 5)
-- **In-class assignment:** ICA02 Client Wireframes (Part 2 of 5)
+- **Assigned:** PA02 Client Wireframes (Part 2 of 5)
 
 ## Class 3 | Design theory 1
 
-*January 24*
+*September 19*
 
 - Design Theory 1
   - Information Hierarchy
@@ -42,12 +41,11 @@
     - Colour
     - Line & Shape
     - Imagery
-- **Assignment due:** ICA02 Client Wireframes (Part 2 of 5)
 - **Assigned:** A01 Wireframes
 
 ## Class 4 | Design theory 2
 
-*January 31*
+*September 26*
 
 - Design Theory 2
   - CRAP Principle
@@ -55,29 +53,26 @@
   - Gestalt Design Theory
 - Colour Theory
 - Critical thinking in design
-- **In-class assignment:** ICA03 Client Website & Branding (Part 3 of 5)
+- **Assigned:** PA03 Client Branding (Part 3 of 5)
 
 ## Class 5 | Prototyping part 2
 
-*February 7*
+*October 3*
 
 - Interaction Design 02
-- **Assignment due:** ICA03 Client Website & Branding (Part 3 of 5)
-- **Assigned:** ICA04 Client Prototypes (Part 4 of 5)
+- **Assigned:** PA04 Client Prototypes (Part 4 of 5)
 
 ## Class 6 | Web psychology part 1
 
-*February 14*
+*October 10*
 
 - Why do we click: Aspects of emotion
 - Why we click: Reciprocity
 - Why we click: Social Validation
-- **Assignment due:** ICA04 Client Prototypes (Part 4 of 5)
-- **Assignment due:** A01 Wireframes (Part One)
 
 ## Class 7 | Web psychology part 2
 
-*February 21*
+*October 17*
 
 - Why we click: Scarcity
 - Why we click: Simplified choices
@@ -87,53 +82,50 @@
 
 ## Class 8 | No class
 
-*February 28*
+*October 24*
 
 - No class, break
 
 ## Class 9 | Design for everyone
 
-*March 7*
+*October 31*
 
 - Accessibility and inclusion
 - Using and understanding feedback
-- **Assigned:** ICA05 Prototype - Evaluation and Feedback (Part 5 of 5)
+- **Assigned:** PA05 Prototype - Evaluation and Feedback (Part 5 of 5)
 
 ## Class 10 | User research part 1
 
-*March 14*
+*November 7*
 
 - Introducing user research
-- **Assignment due:** ICA05 Prototype - Evaluation and Feedback (Part 5 of 5)
 
 ## Class 11 | Design Thinking
 
-*March 21*
+*November 14*
 
 - Design thinking
-- **Assignment due:** A02 Website Re-Design
 - **Assigned:** A03 Website Planning and Design
 
 ## Class 12 | User Centred Design
 
-*March 21*
+*November 21*
 
 - Personas
 - User journey
 - User testing | Testing and evaluating prototype
-- **In-class assignment:** Usability Testing Workshop
-- **Assignment Due:** Usability Testing Workshop
+- **Workshop:** Usability Testing Workshop, *Graded activity*
 
 ## Class 13 | Prototyping part 3
 
-*April 4*
+*November 28*
 
 - Design Systems
 - Interaction Design 03
 
 ## Class 14 | Wrap up
 
-*April 11*
+*December 5*
 
 - Q&A on course material
 - Staying engaged
@@ -141,7 +133,61 @@
 
 ## Class 15 | Evaluation week
 
-*April 18*
+*December 12*
+- Final class
+- Worklab for A03 Website Planning and Design
 
-- No class, Good Friday
-- **Assignment due:** A03 Website Planning and Design
+---
+
+## Assignment schedule
+
+### Practice assignments
+
+1. **PA01 Client Thumbnails (Part 1 of 5)**  
+   Assigned: 2025-09-05  
+   Due: 2025-09-11  
+   Value: 6% of final grade  
+   
+2. **PA02 Client Wireframes (Part 2 of 5)**  
+   Assigned: 2025-09-12  
+   Due: 2025-09-18  
+   Value: 6% of final grade  
+   
+3. **PA03 Client Branding (Part 3 of 5)**  
+   Assigned: 2025-09-26  
+   Due: 2025-10-02  
+   Value: 6% of final grade  
+   
+4. **PA04 Client Prototypes (Part 4 of 5)**  
+   Assigned: 2025-10-03  
+   Due: 2025-10-09  
+   Value: 6% of final grade    
+   
+6. **PA05 Prototype - Evaluation and Feedback (Part 5 of 5)**  
+   Assigned: 2025-10-31  
+   Due: 2025-11-06  
+   Value: 6% of final grade  
+
+ ### Workshop
+1. **Usability Testing Workshop**  
+   Assigned: 2025-11-21  
+   Due: 2025-11-21  
+   Value: 10% of final grade  
+
+### Major assignments
+
+1. **A01 Wireframes**  
+   Assigned: 2025-09-19  
+   Due: 2025-10-14  
+   Value: 20% of final grade  
+   
+2. **A02 Website Redesign**  
+   Assigned: 2025-10-17  
+   Due: 2025-11-18  
+   Value: 20% of final grade  
+   
+3. **A03 Website Planning and Design**  
+   Assigned: 2025-11-14  
+   Due: 2025-12-12  
+   Value: 20% of final grade
+

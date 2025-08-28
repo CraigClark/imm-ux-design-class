@@ -2,7 +2,7 @@
 
 Unless otherwise specificed, an Original Content Notice (OCN) must accompany all assignment submissions. There is an OCN PDF attached below.
 
-## Stock Media Revised for 2021
+## Stock Media Revised for 2025
 
 The use of all stock media for all assignments must comply with the [Canadian Copyright Act](https://laws-lois.justice.gc.ca/eng/acts/C-42/Index.html).
 
